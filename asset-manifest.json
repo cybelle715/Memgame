@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Memgame/static/css/main.68b727f8.css",
+    "main.js": "/Memgame/static/js/main.bcf20ec1.js",
+    "static/media/09.jpg": "/Memgame/static/media/09.095178261d6a6eb29ec1.jpg",
+    "static/media/08.jpg": "/Memgame/static/media/08.9e8e225486a15b9e5fb7.jpg",
+    "static/media/05.jpg": "/Memgame/static/media/05.609ae9a4139625192a5f.jpg",
+    "static/media/10.jpg": "/Memgame/static/media/10.baba29f329344f406108.jpg",
+    "static/media/06.jpg": "/Memgame/static/media/06.8512d81dc37a35afe361.jpg",
+    "static/media/12.jpg": "/Memgame/static/media/12.b7593763bb781556d18b.jpg",
+    "static/media/07.jpg": "/Memgame/static/media/07.a7e2132cf22e5d2ad1ff.jpg",
+    "static/media/04.jpg": "/Memgame/static/media/04.8c63ee8cc949787fa06a.jpg",
+    "static/media/11.jpg": "/Memgame/static/media/11.939aec616b6c6625d683.jpg",
+    "static/media/01.jpg": "/Memgame/static/media/01.9a1bce166c843f6dc6e0.jpg",
+    "static/media/02.jpg": "/Memgame/static/media/02.45bae024e1024d79c365.jpg",
+    "static/media/03.jpg": "/Memgame/static/media/03.8548281a4707d9404b6c.jpg",
+    "index.html": "/Memgame/index.html",
+    "main.68b727f8.css.map": "/Memgame/static/css/main.68b727f8.css.map",
+    "main.bcf20ec1.js.map": "/Memgame/static/js/main.bcf20ec1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68b727f8.css",
+    "static/js/main.bcf20ec1.js"
+  ]
+}
